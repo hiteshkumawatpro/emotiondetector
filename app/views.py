@@ -31,9 +31,6 @@ def page(request):
 
 dict = {}
 
-def fen(camera):
-    
-    camera.get_emotions()
 
 def gen(camera):
     

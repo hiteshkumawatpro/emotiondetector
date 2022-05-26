@@ -6,7 +6,7 @@ from turtle import home
 from urllib import response
 from xml.sax.handler import feature_external_ges
 from argon2 import hash_password
-from cv2 import cv2, sampsonDistance
+import cv2, sampsonDistance
 from deepface import DeepFace
 
 

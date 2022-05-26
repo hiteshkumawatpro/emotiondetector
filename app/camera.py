@@ -1,6 +1,6 @@
 from socket import fromshare
 from tkinter import Frame
-from cv2 import cv2
+import cv2
 import numpy as np
 from fer import FER
 from deepface import DeepFace

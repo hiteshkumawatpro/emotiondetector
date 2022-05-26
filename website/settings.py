@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--^yy_f-98bcf!6j473ey$#3=!v3e0n%ytf-nmug&1gxsh7z0$r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1:8000','emotionreader.herokuapp.com']
 
 
 # Application definition

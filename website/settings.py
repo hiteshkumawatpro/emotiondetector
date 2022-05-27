@@ -27,7 +27,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1:8000','emotionreader.herokuapp.com']
 
-
+DISABLE_COLLECTSTATIC=1
 # Application definition
 
 INSTALLED_APPS = [

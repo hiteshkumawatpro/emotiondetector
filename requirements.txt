@@ -4,4 +4,4 @@ Django==3.2.7
 fer==22.4.0
 matplotlib==3.4.3
 numpy==1.21.2
-opencv-python-headless==4.2.0.32
+opencv-python-headless
